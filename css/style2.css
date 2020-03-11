@@ -1,0 +1,86 @@
+.right-div
+{   
+    position: absolute;
+    top: 19px;
+    left: 227px;
+    bottom: 140px;
+    right: 30px;
+    background: #f1f1f1;
+    width: 55%;
+    height: 83%;
+    padding: 30px;
+    overflow: scroll;
+
+}
+.resm
+{
+    margin-top: -15px;
+    font-size: 22px;
+    font-weight: 700;
+    font-family: sans-serif;
+    border-bottom: 2px solid #0b0b67;
+    color: #0b0b67;
+    padding: 8px;
+    display: block;
+}
+.b1u
+{
+    background: #1a7767;
+    width:50px;
+    height: 30px;
+    padding: 10px;
+    margin-left:5px;
+    margin-top:5px;
+}
+.b2u
+{
+    background: #1a7767;
+    width:50px;
+    height: 30px;
+    padding: 10px;
+    margin-left:5px;
+    margin-top:5px;
+}
+.b3u
+{
+    font-weight: 800;
+    color: #0cb3acfa;
+    border-left: 4px solid #0cb3acfa;
+    display: inline-block;
+    font-size: 24px;
+    
+}
+.fa fa-mortar-board {
+    color:#0cb3acfa;
+    
+}
+.header
+{
+    color: #000;
+    font-weight: 600;
+    margin-top: -5px;
+    display: block;
+    font-family: sans-serif;
+    font-size: 18px;
+    margin-bottom: 6px;
+}
+.right-div  p{
+    display: block;
+    border: 1px solid #c5c0c0;
+    margin-bottom: 20px;
+    margin-top: 18px;
+    width: 352px;
+    height: 152px;
+    padding: 18px;
+    color: #655d5d;
+} 
+.intr{
+    color: #655d5d;
+    border-bottom: 1px solid #c5c0c0;
+    margin-top: 2px;
+    margin-bottom: 12px;
+    padding: 2px;
+    font-size: 12px;
+    display: block;
+}
+
